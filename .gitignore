@@ -4,7 +4,10 @@ docs/_themes/
 .DS_Store
 .flake8
 dist/*
+dist/
 django_grappelli.egg-info/*
+specsa_django_grappelli.egg-info/*
+specsa_django_grappelli.egg-info/
 grappelli/compass/.sass-cache/
 grappelli/static/tinymce_dev
 fabfile.py
@@ -14,3 +17,4 @@ fabfile.py
 node_modules/*
 .tox/*
 .idea
+.egg-info

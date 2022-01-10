@@ -8,9 +8,9 @@ def read(fname):
 
 
 setup(
-    name='django-grappelli',
-    version='2.15.4',
-    description='A jazzy skin for the Django Admin-Interface.',
+    name='specsa-django-grappelli',
+    version='0.2',
+    description='A jazzy skin for the Django Admin-Interface based on django-grappelli',
     long_description=read('README.rst'),
     url='http://django-grappelli.readthedocs.org',
     download_url='',
